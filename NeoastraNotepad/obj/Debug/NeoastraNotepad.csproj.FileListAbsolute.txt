@@ -1,0 +1,17 @@
+C:\Users\MSI\source\repos\NeoastraNotepad\NeoastraNotepad\bin\Debug\NeoastraNotepad.exe.config
+C:\Users\MSI\source\repos\NeoastraNotepad\NeoastraNotepad\bin\Debug\NeoastraNotepad.exe
+C:\Users\MSI\source\repos\NeoastraNotepad\NeoastraNotepad\bin\Debug\NeoastraNotepad.pdb
+C:\Users\MSI\source\repos\NeoastraNotepad\NeoastraNotepad\obj\Debug\MainWindow.g.cs
+C:\Users\MSI\source\repos\NeoastraNotepad\NeoastraNotepad\obj\Debug\Window1.g.cs
+C:\Users\MSI\source\repos\NeoastraNotepad\NeoastraNotepad\obj\Debug\App.g.cs
+C:\Users\MSI\source\repos\NeoastraNotepad\NeoastraNotepad\obj\Debug\NeoastraNotepad_MarkupCompile.cache
+C:\Users\MSI\source\repos\NeoastraNotepad\NeoastraNotepad\obj\Debug\NeoastraNotepad_MarkupCompile.lref
+C:\Users\MSI\source\repos\NeoastraNotepad\NeoastraNotepad\obj\Debug\MainWindow.baml
+C:\Users\MSI\source\repos\NeoastraNotepad\NeoastraNotepad\obj\Debug\Window1.baml
+C:\Users\MSI\source\repos\NeoastraNotepad\NeoastraNotepad\obj\Debug\NeoastraNotepad.g.resources
+C:\Users\MSI\source\repos\NeoastraNotepad\NeoastraNotepad\obj\Debug\NeoastraNotepad.Properties.Resources.resources
+C:\Users\MSI\source\repos\NeoastraNotepad\NeoastraNotepad\obj\Debug\NeoastraNotepad.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\NeoastraNotepad\NeoastraNotepad\obj\Debug\NeoastraNotepad.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\NeoastraNotepad\NeoastraNotepad\obj\Debug\NeoastraNotepad.exe
+C:\Users\MSI\source\repos\NeoastraNotepad\NeoastraNotepad\obj\Debug\NeoastraNotepad.pdb
+C:\Users\MSI\source\repos\NeoastraNotepad\NeoastraNotepad\obj\Debug\GeneratedInternalTypeHelper.g.cs
